@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/GradinIT/ProgrammingForTesters" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GradinIT/ProgrammingForTesters/tree/feature/GROUP_SIMON" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\simon\IdeaProjects" />
